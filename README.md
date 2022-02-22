@@ -2,6 +2,8 @@
 
 > eCommerce platform built with the MERN stack & Redux.
 
+Live Link: https://proshop-mernv.herokuapp.com/
+
 ## Features
 
 - Full featured shopping cart
